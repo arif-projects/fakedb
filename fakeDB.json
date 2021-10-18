@@ -1,38 +1,38 @@
 [
     {
-        "id": "01",
-        "name": "Wash your hands often with soap",
-        "image": "https://i.ibb.co/GCdysLS/icon-01-2048x.png",
+        "id": "1",
+        "name": "Eye Care",
+        "image": "https://i.ibb.co/hspSjrs/eye.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry."
     },
     {
-        "id": "02",
-        "name": "Avoid touching your eyes, nose, mouth",
-        "image": "https://i.ibb.co/kcKHQNv/icon-02-2048x.png",
+        "id": "2",
+        "name": "Medical Checkup",
+        "image": "https://i.ibb.co/rZcXLCN/chekk.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry."
     },
     {
-        "id": "03",
-        "name": "Avoid contact with people who are sick",
-        "image": "https://i.ibb.co/31Sxj84/icon-03-2048x.png",
+        "id": "3",
+        "name": "Dental Care",
+        "image": "https://i.ibb.co/6mrj4db/totth-WXDFW9-G.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry."
     },
     {
-        "id": "04",
-        "name": "Stay home if you are sick",
-        "image": "https://i.ibb.co/5W16x7C/icon-04-2048x.png",
+        "id": "4",
+        "name": "Cardiology",
+        "image": "https://i.ibb.co/4N9PGSG/cardio.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry."
     },
     {
-        "id": "05",
-        "name": "You should wear a facemask",
-        "image": "https://i.ibb.co/fS1TPVt/icon-05-2048x.png",
+        "id": "5",
+        "name": "Laboratory Service",
+        "image": "https://i.ibb.co/sbPV3fN/medicine.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry."
     },
     {
-        "id": "06",
-        "name": "Don’t Touch Your Face or Nose",
-        "image": "https://i.ibb.co/VWFqm0k/icon-06-2048x.png",
+        "id": "6",
+        "name": "Vaccination",
+        "image": "https://i.ibb.co/g3Wkk5v/vaccine-WXDFW9-G.png",
         "description": "Lorem Ipsum is simply dummy text of the printing and type setting industry."
     }
 ]
