@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Exploration",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/DzqwnVy/adv-150x150.png"
+    },
+    {
+        "id": 2,
+        "name": "Adventures",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/cJ9fJkr/compass-150x150.png"
+    },
+    {
+        "id": 3,
+        "name": "Provide Equipment",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/wStJzGN/bag-5-NW2-WBB-150x150.png"
+    },
+    {
+        "id": 4,
+        "name": "Professional Guide",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/WtJtQV8/hikker-150x150.png"
+    },
+    {
+        "id": 5,
+        "name": "Safe Adventure",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/WtJtQV8/hikker-150x150.png"
+    },
+    {
+        "id": 6,
+        "name": "Secret Locations",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/WtJtQV8/hikker-150x150.png"
+    }
+]
